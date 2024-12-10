@@ -1,2 +1,2 @@
 # nexterr
-neexterr.netlify.app
+https://neexterr.netlify.app/
